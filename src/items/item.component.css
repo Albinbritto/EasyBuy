@@ -1,0 +1,8 @@
+.item-wrapper{
+  display: flex;
+  flex-direction: row;
+}
+.item-container{
+  flex:1;
+  text-align:center;
+}
